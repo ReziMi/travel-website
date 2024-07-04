@@ -1,7 +1,7 @@
 import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
 
-interface CampPorops {
+interface CampProps {
   backgroundImage: string;
   title: string;
   subtitle: string;
